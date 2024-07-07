@@ -2,7 +2,7 @@
 
 E ai Candidato!
 
-Este desafio consiste em identificar seu nível de habilidade com desenvolvimento em React Native, portanto, esperamos que você tente resolve-lo usando toda a sua capacidade e conhecimento da tecnologia. 
+Este desafio consiste em identificar seu nível de habilidade com desenvolvimento em React Native, portanto, esperamos que você tente resolve-lo usando toda a sua capacidade e conhecimento da tecnologia.
 
 O desafio é o seguinte:
 
@@ -20,16 +20,19 @@ Recomendamos também algumas API’s abertas e gratuitas para este desafio, por�
 
 **Para submeter o resultado deste desafio, você deve fazer um Fork deste repositório e solicitar um Pull Request, com seu nome completo na descrição, para nossa avaliação.**
 
-# API’s 
+# API’s
+
 ## The Open Movie Database
- [OMDb API - The Open Movie Database](http://www.omdbapi.com/)
+
+[OMDb API - The Open Movie Database](http://www.omdbapi.com/)
 
 ## Unsplash
+
 [Unsplash Image API | Free HD Photo API](https://unsplash.com/developers)
 
 # Design - [Zeplin](https://app.zeplin.io/login)
+
 E-mail - buildbox.mobileguest@gmail.com
 Senha - JhZ5dAPG
-
 
 ![footer](https://s3-us-west-2.amazonaws.com/hippoprod/blog/react-native/react_native_equation.png)
